@@ -50,7 +50,7 @@ $summary = 'IndieWeb upcoming events.';
 
       <div class="h-event vevent">
         <h3 class="ui header p-name summary">
-          <a class="u-url url" href="https://2020.indieweb.org/austin">IndieWebCamp Austin</a>
+          <a class="u-url url" href="/austin">IndieWebCamp Austin</a>
         </h3>
         <p>
           <span class="p-location location">Austin, Texas</span><br />
@@ -62,7 +62,7 @@ $summary = 'IndieWeb upcoming events.';
 
       <div class="h-event vevent">
         <h3 class="ui header p-name summary">
-          <a class="u-url url" href="https://2020.indieweb.org/summit">IndieWeb Summit</a>
+          <a class="u-url url" href="/summit">IndieWeb Summit</a>
         </h3>
         <p>
           <span class="p-location location">Portland, Oregon</span><br />
