@@ -66,7 +66,7 @@ $summary = 'IndieWeb upcoming events.';
         </h3>
         <p>
           <span class="p-location location">Portland, Oregon</span><br />
-          <time class="dt-start dtstart" datetime="2020-06-26">June 26</time>-<time class="dt-end dtend" datetime="2020-06-27">27, 2020</time>
+          <time class="dt-start dtstart" datetime="2020-06-27">June 27</time>-<time class="dt-end dtend" datetime="2020-06-28">28, 2020</time>
         </p>
       </div>
 
