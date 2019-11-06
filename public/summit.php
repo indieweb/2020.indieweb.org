@@ -1,7 +1,7 @@
 <?php
 $event = 'summit';
 $title = 'IndieWeb Summit';
-$date = 'June 26-27, 2020';
+$date = 'June 27-28, 2020';
 $year = 2020;
 $city = 'Portland, Oregon';
 $url = 'https://2020.indieweb.org/summit';
