@@ -9,7 +9,7 @@
   </li>-->
   <li>
     <span class="logo">
-      <a href="https://terminusdb.com/"><img src="https://terminusdb.com/img/logos/logo.svg" style="width: 90px;"/></a>
+      <a href="https://terminusdb.com/"><img src="https://indieweb.org/images/d/d2/terminusdb-logo.png" style="width: 90px;"/></a>
     </span>
     <span class="description"><a href="https://terminusdb.com/">TerminusDB</a> is a database built for data people. Terminus is a model driven graph database designed specifically for the web-age.</span>
   </li>
