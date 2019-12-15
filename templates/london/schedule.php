@@ -1,5 +1,5 @@
 <p>
-  <i class="calendar icon"></i> <time class="dt-start" datetime="2020-03-14">March 14</time>-<time class="dt-end" datetime="2020-03-15">15</time>, 2020<br>
+  <i class="calendar icon"></i> <time class="dt-start" datetime="2020-03-14">March 14</time>-<time class="dt-end" datetime="2020-03-15">15</time>, 2020<br/>
   <i class="marker icon"></i> <span class="h-card p-location"><span class="p-name">The Microsoft Reactor London</span>, <span class="p-street-address">70 Wilson Street</span>, <span class="p-locality">London</span>, <span class="p-region">UK</span></span>
 </p>
 
@@ -27,7 +27,7 @@
 <!--  </div>-->
   <div class="day">
     <div class="header orange-bkg">
-      Saturday, March 14<br>
+      Saturday, March 14<br/>
       <span class="featured">Learn, Share, Discuss!</span>
     </div>
     <div class="summary">
@@ -48,7 +48,7 @@
   </div>
   <div class="day">
     <div class="header red-bkg">
-      Sunday, March 15<br>
+      Sunday, March 15<br/>
       <span class="featured">Create, Hack, Demo!</span>
     </div>
     <div class="summary">
@@ -68,4 +68,4 @@
   </div>
 </div>
 
-<br>
+<br/>

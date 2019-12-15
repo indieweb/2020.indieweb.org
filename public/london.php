@@ -207,7 +207,7 @@ var layer = L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/ligh
 map.addLayer(layer);
 
 var marker = L.marker([30.2688801,-97.7427528]).addTo(map);
-marker.bindPopup("<b>The Microsoft Reactor London</b><br>70 Wilson Street<br>London, EC2A 2DB, UK.").openPopup();
+marker.bindPopup("<b>The Microsoft Reactor London</b><br/>70 Wilson Street<br/>London, EC2A 2DB, UK.").openPopup();
 
 // var marker2 = L.marker([45.526159, -122.675330]).addTo(map);
 // marker2.bindPopup("<b>Pints</b><br>412 NW 5th Ave.<br>Portland, Oregon");
