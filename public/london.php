@@ -197,7 +197,7 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
 <script>
 var map = L.map('map', {
   scrollWheelZoom: false,
-  center: [30.2688801,-97.7427528],
+  center: [51.52182,-0.08467],
   zoom: 13
 });
 
@@ -206,7 +206,7 @@ var layer = L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/ligh
 });
 map.addLayer(layer);
 
-var marker = L.marker([30.2688801,-97.7427528]).addTo(map);
+var marker = L.marker([51.52182,-0.08467]).addTo(map);
 marker.bindPopup("<b>The Microsoft Reactor London</b><br/>70 Wilson Street<br/>London, EC2A 2DB, UK.").openPopup();
 
 // var marker2 = L.marker([45.526159, -122.675330]).addTo(map);
