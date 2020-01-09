@@ -37,7 +37,7 @@
       <ul>
        <li><span class="time">9:00</span> Doors open, coffee, and breakfast!</li>
        <li><span class="time">10:00</span> Welcome</li>
-       <li><span class="time">10:15</span> Keynote: State of Social Readers</li>
+       <li><span class="time">10:15</span> Keynotes</li>
        <li><span class="time">10:45</span> Personal site demos</li>
        <li><span class="time">11:30</span> <a href="https://indieweb.org/session_facilitating">Session proposals &amp; scheduling</a></li>
        <li><span class="time">12:00</span> Group photo &amp; lunch</li>
