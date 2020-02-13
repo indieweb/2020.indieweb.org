@@ -37,12 +37,12 @@
       <ul>
        <li><span class="time">9:00</span> Doors open, coffee, and breakfast!</li>
        <li><span class="time">10:00</span> Welcome</li>
-       <li><span class="time">10:15</span> Keynotes</li>
-       <li><span class="time">10:45</span> Personal site demos</li>
-       <li><span class="time">11:30</span> <a href="https://indieweb.org/session_facilitating">Session proposals &amp; scheduling</a></li>
+       <li><span class="time">10:15</span> <a href="https://www.manton.org/2020/02/10/announcing-the-indiewebcamp.html">Keynotes</a></li>
+       <li><span class="time">11:00</span> Personal site demos</li>
        <li><span class="time">12:00</span> Group photo &amp; lunch</li>
-       <li><span class="time">13:00</span> Sessions (45min)</li>
-       <li><span class="time">16:45</span> Day 2 preview</li>
+       <li><span class="time">13:00</span> <a href="https://indieweb.org/session_facilitating">Session proposals &amp; scheduling</a></li>
+       <li><span class="time">13:15</span> Sessions (45 minutes)</li>
+       <li><span class="time">17:00</span> Day 2 preview</li>
       </ul>
     </div>
   </div>
