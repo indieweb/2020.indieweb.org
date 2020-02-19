@@ -163,14 +163,14 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
   </div>
 
 
-  <!--
-  <div class="ui vertical stripe segment" id="travel-assistance">
+
+  <div class="ui vertical stripe segment" id="add-info">
     <div class="ui text container">
-      <h3 class="ui header">Travel Assistance</h3>
-      <?php //include('../templates/'.$event.'/assistance.php'); ?>
+      <h3 class="ui header">Addtional Information</h3>
+      <?php //include('../templates/'.$event.'/add-info.php'); ?>
     </div>
   </div>
-  -->
+
 
 
   <div class="ui vertical stripe segment" id="sponsors">
