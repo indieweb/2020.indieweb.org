@@ -78,33 +78,33 @@
 
 <div class="keynote-speakers">
 
-  <div class="speaker h-card">
-    <a class="u-url" href="https://tantek.com/"><img class="u-photo" src="/images/tantek.jpg"></a>
-    <p class="name p-name">Tantek<br/> Çelik</p>
+  <div class="speaker">
+    <a href="https://tantek.com/"><img src="/images/tantek.jpg"></a>
+    <p class="name">Tantek<br/> Çelik</p>
     <p class="role">State of the IndieWeb</p>
   </div>
 
-  <div class="speaker h-card">
-    <a class="u-url" href="https://kitt.hodsden.org/"><img class="u-photo" src="/images/kitt-hodsden.jpg"></a>
-    <p class="name p-name">Kitt<br/> Hodsden</p>
+  <div class="speaker">
+    <a href="https://kitt.hodsden.org/"><img src="/images/kitt-hodsden.jpg"></a>
+    <p class="name">Kitt<br/> Hodsden</p>
     <p class="role">On Contractions &amp; Expansions</p>
   </div>
 
-  <div class="speaker h-card">
-    <a class="u-url" href="https://mjordan.codes/"><img class="u-photo" src="/images/mjordan.jpg"></a>
-    <p class="name p-name">mJordan<br/>&nbsp;</p>
+  <div class="speaker">
+    <a href="https://mjordan.codes/"><img src="/images/mjordan.jpg"></a>
+    <p class="name">mJordan<br/>&nbsp;</p>
     <p class="role">Changing My Domain</p>
   </div>
 
-  <div class="speaker h-card">
-    <a class="u-url" href="https://martymcgui.re/"><img class="u-photo" src="/images/schmarty.jpg"></a>
-    <p class="name p-name">Marty<br/> McGuire</p>
+  <div class="speaker">
+    <a href="https://martymcgui.re/"><img src="/images/schmarty.jpg"></a>
+    <p class="name">Marty<br/> McGuire</p>
     <p class="role">Own Your Mobile Experience</p>
   </div>
 
-  <div class="speaker h-card">
-    <a class="u-url" href="https://jacky.wtf/"><img class="u-photo" src="/images/jacky.jpg"></a>
-    <p class="name p-name">Jacky<br/> Alciné</p>
+  <div class="speaker">
+    <a href="https://jacky.wtf/"><img src="/images/jacky.jpg"></a>
+    <p class="name">Jacky<br/> Alciné</p>
     <p class="role">Making the IndieWeb for All</p>
   </div>
 
