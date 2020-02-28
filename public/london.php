@@ -186,7 +186,7 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
     <div class="ui container">
       <p><?= $title ?> &bull; <?= $date ?> &bull; <?= $city ?></p>
       <ul>
-        <li><a href="https://indieweb.org/">IndieWebCamp Home Page</a></li>
+        <li><a href="https://indieweb.org/2020/London">IndieWebCamp London wiki page</a></li>
         <li><a href="https://indieweb.org/code-of-conduct">Code of Conduct</a></li>
         <li><a href="https://indieweb.org/images/2/2d/indiewebcamp-sponsorship-prospectus.pdf">Sponsorship Prospectus</a> (PDF)</li>
       </ul>
@@ -210,7 +210,7 @@ var marker = L.marker([51.52182,-0.08467]).addTo(map);
 marker.bindPopup("<b>The Microsoft Reactor London</b><br/>70 Wilson Street<br/>London, EC2A 2DB, UK.").openPopup();
 
 // var marker2 = L.marker([45.526159, -122.675330]).addTo(map);
-// marker2.bindPopup("<b>Pints</b><br>412 NW 5th Ave.<br>Portland, Oregon");
+// marker2.bindPopup("<b>Pints</b><br/>412 NW 5th Ave.<br/>Portland, Oregon");
 
 // $(function(){
 //   $(".popup").popup();
