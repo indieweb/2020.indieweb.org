@@ -216,7 +216,7 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
     <div class="ui container">
       <p><?= $title ?> &bull; <?= $date ?> &bull; <?= $city ?></p>
       <ul>
-        <li><a href="https://indieweb.org/">IndieWebCamp Home Page</a></li>
+        <li><a href="https://indieweb.org/2020">IndieWebCamp Summit wiki page</a></li>
         <li><a href="https://indieweb.org/code-of-conduct">IndieWeb Code of Conduct</a></li>
         <li><a href="https://indieweb.org/images/2/2d/indiewebcamp-sponsorship-prospectus.pdf">Sponsorship Prospectus</a> (PDF)</li>
       </ul>
@@ -237,10 +237,10 @@ var layer = L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/ligh
 map.addLayer(layer);
 
 var marker = L.marker([45.523459, -122.682703]).addTo(map);
-marker.bindPopup("<b>Mozilla Portland</b><br>1120 NW Couch St. #320<br>Portland, Oregon").openPopup();
+marker.bindPopup("<b>Mozilla Portland</b><br/>1120 NW Couch St. #320<br/>Portland, Oregon").openPopup();
 
 var marker2 = L.marker([45.521450, -122.672375]).addTo(map);
-marker2.bindPopup("<b>Pine Street Market</b><br>126 SW 2nd Ave.<br>Portland, Oregon");
+marker2.bindPopup("<b>Pine Street Market</b><br/>126 SW 2nd Ave.<br/>Portland, Oregon");
 
 $(function(){
   $(".popup").popup();
