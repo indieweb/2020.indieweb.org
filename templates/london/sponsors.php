@@ -3,7 +3,7 @@
 <ul>
 <!--  <li>
     <span class="logo">
-      <a href="https://www.digitalharbor.org/"><img src="https://indieweb.org/sponsor-logos/full/digital-harbor-foundation-logo.png" style="width: 130px;"></a>
+      <a href="https://www.digitalharbor.org/"><img src="https://indieweb.org/sponsor-logos/full/digital-harbor-foundation-logo.png" style="width: 130px;"/></a>
     </span>
     <span class="description"><a href="https://www.digitalharbor.org/">The Digital Harbor Foundation</a> is dedicated to fostering learning, creativity, productivity, and community through education. In 2013 we transformed a closed-down rec center in Baltimore City into a vibrant Tech Center for youth.</span>
   </li>-->
