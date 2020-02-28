@@ -150,7 +150,7 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
         #indiewebcamp
       </div>
       <div style="font-size: 4em; text-align: center;" class="social-media-icons">
-        <a href="https://indieweb.org"><i class="ui attach icon"></i></a>
+        <a href="https://indieweb.org/"><i class="ui attach icon"></i></a>
         <a href="https://twitter.com/indiewebcamp"><i class="ui twitter icon"></i></a>
         <a href="https://www.facebook.com/indiewebcamp/"><i class="ui facebook icon"></i></a>
       </div>
@@ -186,7 +186,7 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
     <div class="ui container">
       <p><?= $title ?> &bull; <?= $date ?> &bull; <?= $city ?></p>
       <ul>
-        <li><a href="https://indieweb.org/">IndieWebCamp Home Page</a></li>
+        <li><a href="https://indieweb.org/2020/Austin">IndieWebCamp Austin wiki page</a></li>
         <li><a href="https://indieweb.org/code-of-conduct">Code of Conduct</a></li>
         <li><a href="https://indieweb.org/images/2/2d/indiewebcamp-sponsorship-prospectus.pdf">Sponsorship Prospectus</a> (PDF)</li>
       </ul>
@@ -207,10 +207,10 @@ var layer = L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/ligh
 map.addLayer(layer);
 
 var marker = L.marker([30.2688801,-97.7427528]).addTo(map);
-marker.bindPopup("<b>Capital Factory</b><br>701 Brazos St.<br>Austin, Texas, 78701.").openPopup();
+marker.bindPopup("<b>Capital Factory</b><br/>701 Brazos St.<br/>Austin, Texas, 78701.").openPopup();
 
 // var marker2 = L.marker([45.526159, -122.675330]).addTo(map);
-// marker2.bindPopup("<b>Pints</b><br>412 NW 5th Ave.<br>Portland, Oregon");
+// marker2.bindPopup("<b>Pints</b><br/>412 NW 5th Ave.<br/>Portland, Oregon");
 
 // $(function(){
 //   $(".popup").popup();
