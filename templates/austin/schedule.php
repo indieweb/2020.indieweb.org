@@ -1,5 +1,5 @@
 <p>
-  <i class="calendar icon"></i> <time class="dt-start" datetime="2020-02-22">February 22</time>-<time class="dt-end" datetime="2020-02-23">23</time>, 2020<br>
+  <i class="calendar icon"></i> <time class="dt-start" datetime="2020-02-22">February 22</time>-<time class="dt-end" datetime="2020-02-23">23</time>, 2020<br/>
   <i class="marker icon"></i> <span class="h-card p-location"><span class="p-name">Capital Factory</span>, <span class="p-street-address">701 Brazos St</span>, <span class="p-locality">Austin</span>, <span class="p-region">Texas</span></span>
 </p>
 
@@ -27,7 +27,7 @@
 <!--  </div>-->
   <div class="day">
     <div class="header orange-bkg">
-      Saturday, February 22<br>
+      Saturday, February 22<br/>
       <span class="featured">Learn, Share, Discuss!</span>
     </div>
     <div class="summary">
@@ -48,7 +48,7 @@
   </div>
   <div class="day">
     <div class="header red-bkg">
-      Sunday, February 23<br>
+      Sunday, February 23<br/>
       <span class="featured">Create, Hack, Demo!</span>
     </div>
     <div class="summary">
@@ -68,4 +68,4 @@
   </div>
 </div>
 
-<br>
+<p>View the <a href="https://indieweb.org/2020/Austin/Schedule">full schedule grid</a> on the IndieWeb wiki for the latest updates.</p>
