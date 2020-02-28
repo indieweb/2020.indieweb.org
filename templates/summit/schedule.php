@@ -79,31 +79,31 @@
 <div class="keynote-speakers">
 
   <div class="speaker">
-    <a href="https://tantek.com/"><img src="/images/tantek.jpg"></a>
+    <a href="https://tantek.com/"><img src="/images/tantek.jpg"/></a>
     <p class="name">Tantek<br/> Çelik</p>
     <p class="role">State of the IndieWeb</p>
   </div>
 
   <div class="speaker">
-    <a href="https://kitt.hodsden.org/"><img src="/images/kitt-hodsden.jpg"></a>
+    <a href="https://kitt.hodsden.org/"><img src="/images/kitt-hodsden.jpg"/></a>
     <p class="name">Kitt<br/> Hodsden</p>
     <p class="role">On Contractions &amp; Expansions</p>
   </div>
 
   <div class="speaker">
-    <a href="https://mjordan.codes/"><img src="/images/mjordan.jpg"></a>
+    <a href="https://mjordan.codes/"><img src="/images/mjordan.jpg"/></a>
     <p class="name">mJordan<br/>&nbsp;</p>
     <p class="role">Changing My Domain</p>
   </div>
 
   <div class="speaker">
-    <a href="https://martymcgui.re/"><img src="/images/schmarty.jpg"></a>
+    <a href="https://martymcgui.re/"><img src="/images/schmarty.jpg"/></a>
     <p class="name">Marty<br/> McGuire</p>
     <p class="role">Own Your Mobile Experience</p>
   </div>
 
   <div class="speaker">
-    <a href="https://jacky.wtf/"><img src="/images/jacky.jpg"></a>
+    <a href="https://jacky.wtf/"><img src="/images/jacky.jpg"/></a>
     <p class="name">Jacky<br/> Alciné</p>
     <p class="role">Making the IndieWeb for All</p>
   </div>
