@@ -4,4 +4,5 @@
 </div>
 -->
 
-<p>For addtional information, e.g. traveling to the venue, when to grab lunch, etc, please visit <a href="https://indieweb.org/2020/London" target="_blank">here</a>.</p>
+<p>For addtional information, e.g. traveling to the venue, when to grab lunch, etc, please visit 
+  the <a href="https://indieweb.org/2020/London" target="_blank">IndieWebCamp London wiki page</a>.</p>
