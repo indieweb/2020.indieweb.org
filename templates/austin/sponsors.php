@@ -3,19 +3,19 @@
 <ul>
 <!--  <li>
     <span class="logo">
-      <a href="https://www.digitalharbor.org/"><img src="https://indieweb.org/sponsor-logos/full/digital-harbor-foundation-logo.png" style="width: 130px;"></a>
+      <a href="https://www.digitalharbor.org/"><img src="https://indieweb.org/sponsor-logos/full/digital-harbor-foundation-logo.png" style="width: 130px;"/></a>
     </span>
     <span class="description"><a href="https://www.digitalharbor.org/">The Digital Harbor Foundation</a> is dedicated to fostering learning, creativity, productivity, and community through education. In 2013 we transformed a closed-down rec center in Baltimore City into a vibrant Tech Center for youth.</span>
   </li>-->
   <li>
     <span class="logo">
-      <a href="https://micro.blog/"><img src="https://help.micro.blog/assets/images/icons/web/icon.svg" style="width: 90px;"></a>
+      <a href="https://micro.blog/"><img src="https://help.micro.blog/assets/images/icons/web/icon.svg" style="width: 90px;"/></a>
     </span>
     <span class="description"><a href="https://micro.blog/">Micro.blog</a> is a short-form blogging platform and social network that is independent and ad-free.</span>
   </li>
   <li>
     <span class="logo">
-      <a href="https://www.liveoak.net/"><img src="https://indieweb.org/images/a/ab/liveoak_logo.png" style="width: 140px;"></a>
+      <a href="https://www.liveoak.net/"><img src="https://indieweb.org/images/a/ab/liveoak_logo.png" style="width: 140px;"/></a>
     </span>
     <span class="description"><a href="https://www.liveoak.net/">Liveoak Technologies</a> is the leading cloud-based platform for digital customer interaction. Seamlessly integrate video conferencing, screen-sharing and data/ID capture with forms collaboration and e-signature capabilities.</span>
   </li>
