@@ -69,4 +69,42 @@
   </div>
 </div>
 
-<br/>
+<!-- To be uncommented by London Organizers once they have committed:
+/images/kevinfeeney.jpg
+/images/cheuk.jpg
+/images/calum.jpg
+/images/ana.jpg
+
+<h3 class="ui header" id="keynotes">Keynotes</h3>
+<div class="keynote-speakers">
+  <div class="speaker">
+    <a href="https://www.optoutools.com/"><img src="/images/kevinfeeney.jpg" /></a>
+    <p class="name">Kevin Feeney</p>
+    <p class="affliation">CEO of TerminusDB</p>
+    <p class="role">Databases Must Be Decentralised Or We Will Never Be Free</p>
+  </div>
+  <div class="speaker">
+    <a href="http://hag.codes/"><img src="/images/rose.jpg" /></a>
+    <p class="name">Rosemary Orchard</p>
+    <p class="affliation">Developer, Technical University of Vienna</p>
+    <p class="role">Introduction to the IndieWeb</p>
+  </div>
+</div>
+
+<h3 class="ui header" id="organizers">Organizers</h3>
+<div class="keynote-speakers">
+  <div class="speaker">
+    <a href="https://cheuk.dev/"><img src="/images/cheuk.jpg" /></a>
+    <p class="name">Cheuk&nbps;Ting&nbps;Ho</p>
+  </div>
+  <div class="speaker">
+    <a href="https://calumryan.com/"><img src="/images/calum.jpg" /></a>
+    <p class="name">Calum&nbps;Ryan</p>
+  </div>
+  <div class="speaker">
+    <a href="https://ohhelloana.blog/"><img src="/images/ana.jpg" /></a>
+    <p class="name">Ana&nbps;Rodrigues</p>
+  </div>
+</div>
+
+-->
