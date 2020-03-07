@@ -72,7 +72,7 @@
 <h3 class="ui header" id="keynotes">Keynotes</h3>
 <div class="keynote-speakers">
   <div class="speaker">
-    <a href="https://www.optoutools.com/"><img src="/images/kevinfeeney.jpg" /></a>
+    <a href="https://github.com/kevinchekovfeeney"><img src="/images/kevinfeeney.jpg" /></a>
     <p class="name">Kevin&nbsp;Feeney</p>
     <p class="affliation">CEO <br/>TerminusDB</p>
     <p class="role">Databases Must Be Decentralised Or We Will Never Be Free</p>
