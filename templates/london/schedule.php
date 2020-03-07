@@ -73,14 +73,14 @@
 <div class="keynote-speakers">
   <div class="speaker">
     <a href="https://www.optoutools.com/"><img src="/images/kevinfeeney.jpg" /></a>
-    <p class="name">Kevin Feeney</p>
-    <p class="affliation">CEO of TerminusDB</p>
+    <p class="name">Kevin&nbsp;Feeney</p>
+    <p class="affliation">CEO <br/>TerminusDB</p>
     <p class="role">Databases Must Be Decentralised Or We Will Never Be Free</p>
   </div>
   <div class="speaker">
     <a href="https://rosemaryorchard.com/"><img src="/images/rose.jpg" /></a>
-    <p class="name">Rosemary Orchard</p>
-    <p class="affliation">Developer, Technical University of Vienna</p>
+    <p class="name">Rosemary&nbsp;Orchard</p>
+    <p class="affliation">Developer <br/>Technical&nbsp;University of Vienna</p>
     <p class="role">Introduction to the IndieWeb</p>
   </div>
 </div>
@@ -89,14 +89,14 @@
 <div class="keynote-speakers">
   <div class="speaker">
     <a href="https://cheuk.dev/"><img src="/images/cheuk.jpg" /></a>
-    <p class="name">Cheuk&nbps;Ting&nbps;Ho</p>
+    <p class="name">Cheuk&nbsp;Ting&nbsp;Ho</p>
   </div>
   <div class="speaker">
     <a href="https://calumryan.com/"><img src="/images/calum.jpg" /></a>
-    <p class="name">Calum&nbps;Ryan</p>
+    <p class="name">Calum&nbsp;Ryan</p>
   </div>
   <div class="speaker">
     <a href="https://ohhelloana.blog/"><img src="/images/ana.jpg" /></a>
-    <p class="name">Ana&nbps;Rodrigues</p>
+    <p class="name">Ana&nbsp;Rodrigues</p>
   </div>
 </div>
