@@ -78,7 +78,7 @@
     <p class="role">Databases Must Be Decentralised Or We Will Never Be Free</p>
   </div>
   <div class="speaker">
-    <a href="http://hag.codes/"><img src="/images/rose.jpg" /></a>
+    <a href="https://rosemaryorchard.com/"><img src="/images/rose.jpg" /></a>
     <p class="name">Rosemary Orchard</p>
     <p class="affliation">Developer, Technical University of Vienna</p>
     <p class="role">Introduction to the IndieWeb</p>
