@@ -69,12 +69,6 @@
   </div>
 </div>
 
-<!-- To be uncommented by London Organizers once they have committed:
-/images/kevinfeeney.jpg
-/images/cheuk.jpg
-/images/calum.jpg
-/images/ana.jpg
-
 <h3 class="ui header" id="keynotes">Keynotes</h3>
 <div class="keynote-speakers">
   <div class="speaker">
@@ -106,5 +100,3 @@
     <p class="name">Ana&nbps;Rodrigues</p>
   </div>
 </div>
-
--->
