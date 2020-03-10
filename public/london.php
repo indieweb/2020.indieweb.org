@@ -114,7 +114,7 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
   <div class="ui vertical stripe segment" id="register">
     <div class="ui text container">
       <h3 class="ui header">Register</h3>
-      <p>Registrations now closed for this event.</p>
+      <p>Registrations now closed for this event. Read our latest <a href="https://indieweb.org/2020/London/Regarding_COVID-19">announcement regarding COVID-19</a>.</p>
       <p>See more related events at <a href="https://events.indieweb.org/">events.indieweb.org</a></p>
     </div>
   </div>
