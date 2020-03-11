@@ -1,6 +1,6 @@
 <p>
   <i class="calendar icon"></i> <time class="dt-start" datetime="2020-03-14">March 14</time>-<time class="dt-end" datetime="2020-03-15">15</time>, 2020<br/>
-  <i class="marker icon"></i> <span class="h-card p-location"><span class="p-name">The Microsoft Reactor London</span>, <span class="p-street-address">70 Wilson Street</span>, <span class="p-locality">London</span>, <span class="p-region">UK</span></span>
+  <i class="marker icon"></i> Online
 </p>
 
 <div class="schedule-grid">
