@@ -3,7 +3,7 @@ $event = 'london';
 $title = 'IndieWebCamp London';
 $date = 'Mar 14-15, 2020';
 $year = 2020;
-$city = 'London, UK';
+$city = 'Online only';
 $url = 'https://2020.indieweb.org/london';
 $summary = 'IndieWebCamp London 2020 is a gathering for independent web creators of all kinds, from graphic artists, to designers, UX engineers, coders, hackers, to share ideas, actively work on creating for their own personal websites, and build upon each others creations.';
 include(dirname(__FILE__).'/../lib/rsvps.php');
