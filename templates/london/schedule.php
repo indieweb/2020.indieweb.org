@@ -1,6 +1,6 @@
 <p>
   <i class="calendar icon"></i> <time class="dt-start" datetime="2020-03-14">March 14</time>-<time class="dt-end" datetime="2020-03-15">15</time>, 2020<br/>
-  <i class="marker icon"></i> <span class="h-card p-location"><span class="p-name">The Microsoft Reactor London</span>, <span class="p-street-address">70 Wilson Street</span>, <span class="p-locality">London</span>, <span class="p-region">UK</span></span>
+  <i class="marker icon"></i> Online
 </p>
 
 <div class="schedule-grid">
@@ -35,13 +35,13 @@
     </div>
     <div class="details">
       <ul>
-       <li><span class="time">9:00</span> Doors open, coffee, and breakfast!</li>
+       <!-- <li><span class="time">9:00</span> Doors open, coffee, and breakfast!</li> -->
        <li><span class="time">10:00</span> Welcome</li>
        <li><span class="time">10:15</span> Keynote 1: Kevin Feeney, CEO of TerminusDB - Databases Must Be Decentralised Or We Will Never Be Free</li>
        <li><span class="time">10:30</span> Keynote 2: Rosemary Orchard, Developer, Technical University of Vienna - Introduction to the IndieWeb</li>
        <li><span class="time">10:45</span> Personal site demos</li>
        <li><span class="time">11:30</span> <a href="https://indieweb.org/session_facilitating">Session proposals &amp; scheduling</a></li>
-       <li><span class="time">12:00</span> Group photo &amp; lunch</li>
+       <li><span class="time">12:00</span> Lunch or break</li>
        <li><span class="time">13:00</span> Sessions (45min)</li>
        <li><span class="time">16:45</span> Day 2 preview</li>
       </ul>
@@ -57,10 +57,10 @@
     </div>
     <div class="details">
       <ul>
-       <li><span class="time">9:00</span> Doors open, coffee, and breakfast!</li>
+       <!-- <li><span class="time">9:00</span> Doors open, coffee, and breakfast!</li> -->
        <li><span class="time">10:00</span> Day 2 kickoff, session planning</li>
        <li><span class="time">10:30</span> Creating sessions</li>
-       <li><span class="time">12:00</span> Group photo &amp; lunch</li>
+       <li><span class="time">12:00</span> Lunch or break</li>
        <li><span class="time">13:00</span> Sessions continue</li>
        <li><span class="time">16:00</span> Demos</li>
        <li><span class="time">17:00</span> Camp closed!</li>

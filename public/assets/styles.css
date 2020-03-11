@@ -405,3 +405,12 @@
     flex-wrap: wrap;
   }
 }
+
+.alert {
+  padding: 2rem;
+  background: #0240a2;
+}
+
+.strike {
+  text-decoration: line-through;
+}

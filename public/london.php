@@ -101,9 +101,13 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
       </h1>
 
       <h2><?= $date ?></h2>
-      <h2><?= $city ?></h2>
+      <h2 class="strike"><?= $city ?></h2>
 
-
+      <div class="alert">
+        <h2>Online only</h2>
+        <p>Unfortunately, we have decided to accept ONLY REMOTE participation for IndieWebCamp London on 14th and 15th March 2020.</p>
+        <p>It is a very difficult decision to make, but we have the safety of all participants in mind and have to put it as the highest priority of all. We apologize for the disappointment and inconvenience that it has caused. If you need assistance regarding your scheduled travel, please feel free to <a href="https://indieweb.org/2020/London#Organizers">reach out to us</a>.</p>
+      </div>
       <p class="summary p-summary"><?= htmlspecialchars($summary) ?></p>
 
     </div>
@@ -114,7 +118,7 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
   <div class="ui vertical stripe segment" id="register">
     <div class="ui text container">
       <h3 class="ui header">Register</h3>
-      <p>Registrations now closed for this event. Read our latest <a href="https://indieweb.org/2020/London/Regarding_COVID-19">announcement regarding COVID-19</a>.</p>
+      <p>Registrations now closed for this event.</p>
       <p>See more related events at <a href="https://events.indieweb.org/">events.indieweb.org</a></p>
     </div>
   </div>
@@ -127,7 +131,7 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
 
       <h3 class="ui header" id="indie-rsvps">Indie RSVPs</h3>
 
-      <p>See <a href="https://indieweb.org/RSVP">indieweb.org/RSVP</a> for instructions on how to create an RSVP post. Once you've created the RSVP post which links to this page, send a Webmention and you'll appear below! Please make sure to still register for a ticket above though!</p>
+      <p>See <a href="https://indieweb.org/RSVP">indieweb.org/RSVP</a> for instructions on how to create an RSVP post. Once you've created the RSVP post which links to this page, send a Webmention and you'll appear below!</p>
 
       <?php include('../templates/show-rsvps.php'); ?>
 
@@ -158,9 +162,9 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
   </div>
 
 
-  <div class="ui vertical stripe segment nopadding" style="border-bottom: 0;" id="location">
+  <!--<div class="ui vertical stripe segment nopadding" style="border-bottom: 0;" id="location">
     <div id="map"></div>
-  </div>
+  </div>-->
 
 
 
