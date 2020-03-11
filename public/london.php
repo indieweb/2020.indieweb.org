@@ -101,7 +101,6 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
       </h1>
 
       <h2><?= $date ?></h2>
-      <h2 class="strike"><?= $city ?></h2>
 
       <div class="alert">
         <h2>Online only</h2>
