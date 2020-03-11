@@ -65,7 +65,7 @@ $summary = 'IndieWeb upcoming events.';
           <a class="u-url url" href="/london">IndieWebCamp London</a>
         </h3>
         <p>
-          <span class="p-location location">London, UK</span><br />
+          <span class="p-location location">Online only</span><br />
           <time class="dt-start dtstart" datetime="2020-03-14">March 14</time>-<time class="dt-end dtend" datetime="2020-03-15">15, 2020</time>
         </p>
       </div>
