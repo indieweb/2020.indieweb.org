@@ -162,9 +162,9 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
   </div>
 
 
-  <div class="ui vertical stripe segment nopadding" style="border-bottom: 0;" id="location">
+  <!--<div class="ui vertical stripe segment nopadding" style="border-bottom: 0;" id="location">
     <div id="map"></div>
-  </div>
+  </div>-->
 
 
 
