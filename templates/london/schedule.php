@@ -4,27 +4,14 @@
 </p>
 
 <div class="schedule-grid">
-<!--  <div class="day">-->
-<!--    <div class="header gold-bkg">-->
-<!--        Friday, February 22nd<br/>-->
-<!--        <span class="featured">Pre-Camp Meetup</span>-->
-<!--    </div>-->
-<!--    <div class="summary">-->
-<!--        The Pre-Camp Meetup is an informal social meetup for IndieWebCamp participants to catch up and get to know each other before the camp. -->
-<!--    </div>-->
-<!--    <div class="details">-->
-<!--        <ul>-->
-<!--            <li><span class="time">19:00</span> <span class="featured">Pre-Camp Meetup!</span></li>-->
-<!--        </ul>-->
-<!--        <span><a href="http://joesquared.com/">Joe Squared</a><br/><span>33 W. North Ave.</span></span>-->
-<!--        <p style="font-size:0.8em; margin-top: 1em;">Joe Squared is in Baltimore's Station North with great pizza, risotto, drink options, and more. Vegan and GF friendly.</p>-->
-<!--        <ul>-->
-<!--            <li><span class="time">21:00</span> <span class="featured">IndieWeb-themed* Comedy Show</span></li>-->
-<!--        </ul>-->
-<!--        <span><a href="http://www.bigimprov.org/">Baltimore Improv Group</a><br/><span>1727 N. Charles St.</span></span>-->
-<!--        <p style="font-size:0.8em; margin-top: 1em;">The Baltimore Improv Group (BIG) is a non-profit for improvisational theatre shows and instruction. Co-organizer Marty will be appearing in the evening's 9PM show.</p>-->
-<!--    </div>-->
-<!--  </div>-->
+  <div class="day">
+    <div class="header gold-bkg">
+        <span class="featured">Pre-Camp Help</span>
+    </div>
+    <div class="summary">
+      For those wanting some general help getting prepared and set up for IndieWebCamp Online, you can <a href="https://indieweb.org/discuss">join us in the chat</a>.
+    </div>
+  </div>
   <div class="day">
     <div class="header orange-bkg">
       Saturday, March 14<br/>
@@ -36,14 +23,14 @@
     <div class="details">
       <ul>
        <!-- <li><span class="time">9:00</span> Doors open, coffee, and breakfast!</li> -->
-       <li><span class="time">10:00</span> Welcome</li>
-       <li><span class="time">10:15</span> Keynote 1: Kevin Feeney, CEO of TerminusDB - Databases Must Be Decentralised Or We Will Never Be Free</li>
-       <li><span class="time">10:30</span> Keynote 2: Rosemary Orchard, Developer, Technical University of Vienna - Introduction to the IndieWeb</li>
-       <li><span class="time">10:45</span> Personal site demos</li>
-       <li><span class="time">11:30</span> <a href="https://indieweb.org/session_facilitating">Session proposals &amp; scheduling</a></li>
-       <li><span class="time">12:00</span> Lunch or break</li>
-       <li><span class="time">13:00</span> Sessions (45min)</li>
-       <li><span class="time">16:45</span> Day 2 preview</li>
+       <li><span class="time"><a href="https://timee.io/20200314T1000?d=15&tl=Welcome">10:00</a></span> Welcome</li>
+       <li><span class="time"><a href="https://timee.io/20200314T1015?d=15&tl=Keynote%201%3A%20Kevin%20Feeney%2C%20CEO%20of%20TerminusDB%20-%20Databases%20Must%20Be%20Decentralised%20Or%20We%20Will%20Never%20Be%20Free">10:15</a></span> Keynote 1: Kevin Feeney, CEO of TerminusDB - Databases Must Be Decentralised Or We Will Never Be Free</li>
+       <li><span class="time"><a href="https://timee.io/20200314T1030?d=15&tl=Keynote%202%3A%20Rosemary%20Orchard%2C%20Developer%2C%20Technical%20University%20of%20Vienna%20-%20Introduction%20to%20the%20IndieWeb">10:30</a></span> Keynote 2: Rosemary Orchard, Developer, Technical University of Vienna - Introduction to the IndieWeb</li>
+       <li><span class="time"><a href="https://timee.io/20200314T1045?d=45&tl=Personal%20site%20demos">10:45</a></span> Personal site demos</li>
+       <li><span class="time"><a href="https://timee.io/20200314T1130?d=30&tl=Session%20proposals%20%26amp%3B%20scheduling">11:30</a></span> <a href="https://indieweb.org/session_facilitating">Session proposals &amp; scheduling</a></li>
+       <li><span class="time"><a href="https://timee.io/20200314T1200?d=60&tl=Lunch%20or%20break">12:00</a></span> Lunch or break</li>
+       <li><span class="time"><a href="https://timee.io/20200314T1300?d=105&tl=Sessions%20(45min)">13:00</a></span> <a href="https://indieweb.org/2020/London/Schedule">Sessions</a> (45min)</li>
+       <li><span class="time"><a href="https://timee.io/20200314T1645?d=10&tl=Day%202%20preview">16:45</a></span> Day 2 preview</li>
       </ul>
     </div>
   </div>
@@ -58,12 +45,12 @@
     <div class="details">
       <ul>
        <!-- <li><span class="time">9:00</span> Doors open, coffee, and breakfast!</li> -->
-       <li><span class="time">10:00</span> Day 2 kickoff, session planning</li>
-       <li><span class="time">10:30</span> Creating sessions</li>
-       <li><span class="time">12:00</span> Lunch or break</li>
-       <li><span class="time">13:00</span> Sessions continue</li>
-       <li><span class="time">16:00</span> Demos</li>
-       <li><span class="time">17:00</span> Camp closed!</li>
+       <li><span class="time"><a href="https://timee.io/20200315T1000?d=30&tl=Day%202%20kickoff%2C%20session%20planning">10:00</a></span> Day 2 kickoff, session planning</li>
+       <li><span class="time"><a href="https://timee.io/20200315T1000?d=90&tl=Creating%20sessions">10:30</a></span> Creating sessions</li>
+       <li><span class="time"><a href="https://timee.io/20200315T1200?d=60&tl=Lunch%20or%20break">12:00</a></span> Lunch or break</li>
+       <li><span class="time"><a href="https://timee.io/20200315T1300?d=180&tl=Sessions%20continue">13:00</a></span> Sessions continue</li>
+       <li><span class="time"><a href="https://timee.io/20200315T1600?d=60&tl=Demos">16:00</a></span> Demos</li>
+       <li><span class="time"><a href="https://timee.io/20200315T1700?d=5&tl=Camp%20closed!">17:00</a></span> Camp closed!</li>
       </ul>
     </div>
   </div>
