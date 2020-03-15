@@ -47,7 +47,7 @@
        <li><span class="time"><a href="https://timee.io/20200315T1000?d=30&tl=Projects%20Kick-off">10:00</a></span> Projects Kick-off</li>
        <li><span class="time"><a href="https://timee.io/20200315T1030?d=360&tl=Projects%20time">10:30</a></span> Projects time</li>
        <li><span class="time"><a href="https://timee.io/20200315T1630?d=60&tl=Demos">16:30</a></span> Demos</li>
-       <li><span class="time"><a href="https://timee.io/20200315T1700?d=5&tl=Camp%20closed!">17:30</a></span> Camp closed!</li>
+       <li><span class="time"><a href="https://timee.io/20200315T1730?d=5&tl=Camp%20closed!">17:30</a></span> Camp closed!</li>
       </ul>
     </div>
   </div>
