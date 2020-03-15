@@ -30,7 +30,7 @@
        <li><span class="time"><a href="https://timee.io/20200314T1130?d=30&tl=Session%20proposals%20%26amp%3B%20scheduling">11:30</a></span> <a href="https://indieweb.org/session_facilitating">Session proposals &amp; scheduling</a></li>
        <li><span class="time"><a href="https://timee.io/20200314T1200?d=60&tl=Lunch%20or%20break">12:00</a></span> Lunch or break</li>
        <li><span class="time"><a href="https://timee.io/20200314T1300?d=105&tl=Sessions%20(45min)">13:00</a></span> <a href="https://indieweb.org/2020/London/Schedule">Sessions</a> (45min)</li>
-       <li><span class="time"><a href="https://timee.io/20200314T1645?d=10&tl=Day%202%20preview">17:10</a></span> Day 2 preview</li>
+       <li><span class="time"><a href="https://timee.io/20200314T1710?d=10&tl=Day%202%20preview">17:10</a></span> Day 2 preview</li>
       </ul>
     </div>
   </div>
