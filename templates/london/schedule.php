@@ -30,7 +30,7 @@
        <li><span class="time"><a href="https://timee.io/20200314T1130?d=30&tl=Session%20proposals%20%26amp%3B%20scheduling">11:30</a></span> <a href="https://indieweb.org/session_facilitating">Session proposals &amp; scheduling</a></li>
        <li><span class="time"><a href="https://timee.io/20200314T1200?d=60&tl=Lunch%20or%20break">12:00</a></span> Lunch or break</li>
        <li><span class="time"><a href="https://timee.io/20200314T1300?d=105&tl=Sessions%20(45min)">13:00</a></span> <a href="https://indieweb.org/2020/London/Schedule">Sessions</a> (45min)</li>
-       <li><span class="time"><a href="https://timee.io/20200314T1645?d=10&tl=Day%202%20preview">16:45</a></span> Day 2 preview</li>
+       <li><span class="time"><a href="https://timee.io/20200314T1710?d=10&tl=Day%202%20preview">17:10</a></span> Day 2 preview</li>
       </ul>
     </div>
   </div>
@@ -44,13 +44,10 @@
     </div>
     <div class="details">
       <ul>
-       <!-- <li><span class="time">9:00</span> Doors open, coffee, and breakfast!</li> -->
-       <li><span class="time"><a href="https://timee.io/20200315T1000?d=30&tl=Day%202%20kickoff%2C%20session%20planning">10:00</a></span> Day 2 kickoff, session planning</li>
-       <li><span class="time"><a href="https://timee.io/20200315T1000?d=90&tl=Creating%20sessions">10:30</a></span> Creating sessions</li>
-       <li><span class="time"><a href="https://timee.io/20200315T1200?d=60&tl=Lunch%20or%20break">12:00</a></span> Lunch or break</li>
-       <li><span class="time"><a href="https://timee.io/20200315T1300?d=180&tl=Sessions%20continue">13:00</a></span> Sessions continue</li>
-       <li><span class="time"><a href="https://timee.io/20200315T1600?d=60&tl=Demos">16:00</a></span> Demos</li>
-       <li><span class="time"><a href="https://timee.io/20200315T1700?d=5&tl=Camp%20closed!">17:00</a></span> Camp closed!</li>
+       <li><span class="time"><a href="https://timee.io/20200315T1000?d=30&tl=Projects%20Kick-off">10:00</a></span> Projects Kick-off</li>
+       <li><span class="time"><a href="https://timee.io/20200315T1030?d=360&tl=Projects%20time">10:30</a></span> Projects time</li>
+       <li><span class="time"><a href="https://timee.io/20200315T1630?d=60&tl=Demos">16:30</a></span> Demos</li>
+       <li><span class="time"><a href="https://timee.io/20200315T1730?d=5&tl=Camp%20closed!">17:30</a></span> Camp closed!</li>
       </ul>
     </div>
   </div>
