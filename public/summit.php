@@ -127,10 +127,14 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
 
   </div>
 
-
+  <div style="background: #fffbe3; padding: 4px 8px; border: 1px #faeead solid; border-radius: 4px">
+    Please see: 
+    <a href="https://indieweb.org/2020/COVID-19">Updates regarding Summit and COVID-19</a>
+  </div>
+  
   <div class="ui vertical stripe segment" id="register">
     <div class="ui text container">
-      <h3 class="ui header">Register</h3>
+      <h3 class="ui header">Registration is frozen until we figure out postponement plans</h3>
 
       <tito-widget event="indiewebcamp/summit-2020"><a href="http://tickets.indieweb.org/indiewebcamp/summit-2020">Get Tickets</a></tito-widget>
 
