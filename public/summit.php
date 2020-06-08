@@ -136,7 +136,7 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
         <a href="https://indieweb.org/2020/COVID-19">Updates regarding Summit and COVID-19</a>
       </div>
 
-      <p style="font-size: 0.9em; margin-top: 0.5em;">Have a discount code? <a href="https://ti.to/indiewebcamp/summit-2020">Enter it here!</a></p>
+      <p style="font-size: 0.9em; margin-top: 0.5em;">We will be having an online only IndieWebCamp. For more information visit <a href="https://events.indieweb.org/2020/06/indiewebcamp-west-2020-ZB8zoAAu6sdN">IndieWebCamp West 2020</a></p>
 
     </div>
   </div>
