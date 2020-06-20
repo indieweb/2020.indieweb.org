@@ -24,3 +24,7 @@ For example, an event with a slug on this web page of `summit`, which is mapped 
 
 The home page is in `public/index.php` and you should copy one of the blocks from another city and duplicate it to link to the new event page.
 
+## More steps to organize an IndieWebCamp
+
+Creating a new event page is just part of organizing an IndieWebCamp. See:
+* https://indieweb.org/IndieWebCamp_Organizing#Before for a comprehensive list of steps.
