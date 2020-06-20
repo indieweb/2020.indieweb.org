@@ -14,15 +14,6 @@
     $tickets = false;
   }
 
-  $ticket_types[] = [
-    'title' => 'Registrations',
-    'filter' => 'Regular',
-  ];
-  $ticket_types[] = [
-    'title' => 'Remote Participants',
-    'filter' => 'Remote Participation',
-  ];
-
   if($tickets):
   foreach($ticket_types as $type):
     echo '<h3 class="ui header" id="'.(preg_replace('/[^a-z]/', '-', strtolower($type['title']))).'-rsvps">'.$type['title'].'</h3>';

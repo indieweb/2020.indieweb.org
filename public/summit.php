@@ -126,13 +126,13 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
     </div>
 
   </div>
-  
+
   <div class="ui vertical stripe segment" id="register">
     <div class="ui text container">
       <h3 class="ui header">IndieWeb Summit is cancelled</h3>
 
       <div style="background: #fffbe3; padding: 4px 8px; border: 1px #faeead solid; border-radius: 4px; margin:1em; font-weight:bold">
-        Please see: 
+        Please see:
         <a href="https://indieweb.org/2020/COVID-19">Updates regarding Summit and COVID-19</a>
       </div>
 
@@ -159,7 +159,18 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
 
   <div class="ui vertical stripe segment h-feed" id="rsvps">
     <div class="ui text container">
-      <?php include('../templates/show-tito-tickets.php'); ?>
+
+      <?php
+      $ticket_types[] = [
+        'title' => 'Registrations',
+        'filter' => 'Regular',
+      ];
+      $ticket_types[] = [
+        'title' => 'Remote Participants',
+        'filter' => 'Remote Participation',
+      ];
+      include('../templates/show-tito-tickets.php');
+      ?>
 
       <h3 class="ui header" id="indie-rsvps">Indie RSVPs</h3>
 
