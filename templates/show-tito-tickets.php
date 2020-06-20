@@ -3,7 +3,7 @@
   $rsvps = loadRSVPs($event);
   $websites = [];
   foreach($rsvps as $rsvp) {
-    if($rsvp['data']['author']['url']) {
+    if(!empty($rsvp['data']['author']['url'])) {
       $websites[] = parse_url($rsvp['data']['author']['url'], PHP_URL_HOST);
     }
   }

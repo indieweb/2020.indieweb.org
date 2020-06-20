@@ -17,7 +17,7 @@ foreach($rsvps as $rsvp):
   $author_mf2 = [];
 
   // use permalink's domain if no author name
-  if (array_key_exists('name', $rsvp['data']['author']) && $rsvp['data']['author']['name']) {
+  if (isset($rsvp['data']['author']) && array_key_exists('name', $rsvp['data']['author']) && $rsvp['data']['author']['name']) {
     $author_name = $rsvp['data']['author']['name'];
     $author_mf2[] = 'p-name';
   } else {
@@ -25,7 +25,7 @@ foreach($rsvps as $rsvp):
   }
 
   // use permalink if no author url
-  if (array_key_exists('url', $rsvp['data']['author']) && $rsvp['data']['author']['url']) {
+  if (isset($rsvp['data']['author']) && array_key_exists('url', $rsvp['data']['author']) && $rsvp['data']['author']['url']) {
     $author_url = $rsvp['data']['author']['url'];
     $author_mf2[] = 'u-url';
   } else {
@@ -33,7 +33,7 @@ foreach($rsvps as $rsvp):
   }
 
   // use default image if no author photo
-  if (array_key_exists('author_photo', $rsvp) && $rsvp['author_photo']) {
+  if (isset($rsvp['data']['author']) && array_key_exists('author_photo', $rsvp) && $rsvp['author_photo']) {
     $author_photo = sprintf('<img src="/img.php?event=%s&img=%s" width="48" height="48" class="photo u-photo">', $event, $rsvp['author_photo']);
   } else {
     $author_photo = '<img src="/assets/no-photo.png" width="48" height="48" class="photo">';
