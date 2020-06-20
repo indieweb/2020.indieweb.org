@@ -123,7 +123,17 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
   <div class="ui vertical stripe segment" id="rsvps">
     <div class="ui text container">
 
-      <?php include('../templates/show-tito-tickets.php'); ?>
+      <?php
+      $ticket_types[] = [
+        'title' => 'Registrations',
+        'filter' => 'Regular',
+      ];
+      $ticket_types[] = [
+        'title' => 'Remote Participants',
+        'filter' => 'Remote Participation',
+      ];
+      include('../templates/show-tito-tickets.php');
+      ?>
 
       <h3 class="ui header" id="indie-rsvps">Indie RSVPs</h3>
 

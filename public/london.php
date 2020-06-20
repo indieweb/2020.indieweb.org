@@ -126,8 +126,6 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
   <div class="ui vertical stripe segment" id="rsvps">
     <div class="ui text container">
 
-      <?php include('../templates/show-tito-tickets.php'); ?>
-
       <h3 class="ui header" id="indie-rsvps">Indie RSVPs</h3>
 
       <p>See <a href="https://indieweb.org/RSVP">indieweb.org/RSVP</a> for instructions on how to create an RSVP post. Once you've created the RSVP post which links to this page, send a Webmention and you'll appear below!</p>
