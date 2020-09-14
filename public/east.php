@@ -104,7 +104,7 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
 
       <div class="alert">
         <h2>Online only</h2>
-        <p>IndieWebcamp East is 100% online during Pacific Daylight Time hours on the 14th and 15th of November 2020.</p>
+        <p>IndieWebcamp East is 100% online during Eastern Standard Time hours on the 14th and 15th of November 2020.</p>
       </div>
       <p class="summary p-summary"><?= htmlspecialchars($summary) ?></p>
 
