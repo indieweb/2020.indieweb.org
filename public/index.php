@@ -45,8 +45,19 @@ $summary = 'IndieWeb upcoming events.';
   <div class="ui vertical stripe segment h-feed" id="events">
     <div class="ui text container">
 
+      
+      <div class="h-event vevent">
+        <h3 class="ui header p-name summary">
+          <a class="u-url url" href="">IndieWebCamp East</a> (coming soon!)
+        </h3>
+        <p>
+          <span class="p-location location">Online</span><br />
+          <time class="dt-start dtstart" datetime="2020-11-14">November 14</time>-<time class="dt-end dtend" datetime="2020-11-15">15, 2020</time>
+        </p>
+      </div>
 
 
+      <h2 style="margin-top:6em;">Past Events</h2>
 
       <div class="h-event vevent">
         <h3 class="ui header p-name summary">
@@ -94,20 +105,13 @@ $summary = 'IndieWeb upcoming events.';
       </div>
 
 
-      <!--
-      <h2 style="margin-top:6em;">Past Events</h2>
-      -->
 
 
-
-
-
-
-
+      
 
 
       <div style="margin-top: 100px;">
-        <p>See more related events at <a href="https://indieweb.org/events">indieweb.org/events</a></p>
+        <p>See more related events at <a href="https://events.indieweb.org/">events.indieweb.org</a></p>
       </div>
 
     </div>
