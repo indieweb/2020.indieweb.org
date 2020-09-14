@@ -48,7 +48,7 @@ $summary = 'IndieWeb upcoming events.';
       
       <div class="h-event vevent">
         <h3 class="ui header p-name summary">
-          <a class="u-url url" href="">IndieWebCamp East</a> (coming soon!)
+          <a class="u-url url" href="/east">IndieWebCamp East</a>
         </h3>
         <p>
           <span class="p-location location">Online</span><br />
